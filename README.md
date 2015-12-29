@@ -41,7 +41,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### B
 
-* [Babel](/glossary/BABEL.md): a JavaScript transformation toolkit which started as an ECMAScript 2015 / ES6 code translator (transpiler).
+* [Babel](/glossary/BABEL.md): Un outils de transformation du Javascript qui a commencé en tant que traducteur de code ECMAScript 2015 / ES6 .
 * [Backbone](/glossary/BACKBONE.md): a structural framework for dynamic web apps.
 * [Bluebird](/glossary/BLUEBIRD.md): a fully featured Promise library with focus on innovative features and performance.
 * [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
@@ -52,7 +52,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### C
 
 * [Canvas](/glossary/CANVAS.md): an HTML element for graphic applications in 2D or 3D.
-* [Chai](/glossary/CHAI.md): an assertion library used with a JavaScript testing framework.
+* [Chai](/glossary/CHAI.md): Une librairie d'assertions qu'on utilise avec un framework de test Javascript.
 * [Closure](/glossary/CLOSURE.md): *to be completed.*
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): a language that compiles into JavaScript.
 * [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
@@ -148,7 +148,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### S
 
-* [Sails](/glossary/SAILS.md): a realtime MVC Framework for Node.js.
+* [Sails](/glossary/SAILS.md): Un framework MVC en temps réel pour Node.js.
 
 ### T
 
