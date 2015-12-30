@@ -97,7 +97,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [jQuery](/glossary/JQUERY.md): a fast, small, and feature-rich client-side library.
 * [JSCS](/glossary/JSCS.md): a JavaScript code linter.
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
-* [JSLint](/glossary/JSLINT.md): a JavaScript code linter.
+* [JSLint](/glossary/JSLINT.md): un code "linter" JavaScript.
 * [JSON](/glossary/JSON.md) (JavaScript Object Notation): a lightweight data-interchange format.
 * [JSON-LD](/glossary/JSON-LD.md): JSON for Linked Data.
 * [JSX](/glossary/JSX.md): an XML-like syntax extension to JavaScript.
@@ -139,11 +139,13 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### Q
 
+* [QUnit](/glossary/QUNIT.md): *to be completed.*
+
 ### R
 
-* [React](/glossary/REACT.md): a library developed and used at Facebook for building user interfaces.
+* [React](/glossary/REACT.md): une bibliothèqe développée et utilisée sur Facebook pour la construction d'interfaces utilisateur.
 * [Redux](/glossary/REDUX.md): a predictable state container for apps.
-* [RxJS](/glossary/RXJS.md): a library for asynchronous programming using observable streams.
+* [RxJS](/glossary/RXJS.md): une bibliothèque pour la programmation asynchrone en utilisant des flux observables. 
 * [Require.js](/glossary/REQUIREJS.md): *to be completed.*
 
 ### S
