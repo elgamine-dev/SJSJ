@@ -47,7 +47,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
 * [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
 * [Browserify](/glossary/BROWSERIFY.md): a tool making possible to use the `require` function from Node.js within the browser.
-* [Brunch](/glossary/BRUNCH.md): a tool focusing on the production of deployment-ready files from development files.
+* [Brunch](/glossary/BRUNCH.md): Un outil axé sur la production de fichiers prêts à être déployés à partir de fichiers de développement.
 
 ### C
 
@@ -56,7 +56,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [Closure](/glossary/CLOSURE.md): *to be completed.*
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): a language that compiles into JavaScript.
 * [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
-* [CouchDB](/glossary/COUCHDB.md): a NoSQL database with JavaScript as query language and HTTP as API.
+* [CouchDB](/glossary/COUCHDB.md): base de données NoSQL avec JavaScript comme langage de requête HTTP et comme API.
 * [Currying](/glossary/CURRYING.md): *to be completed.*
 
 ### D
@@ -78,12 +78,12 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### G
 
-* [Grunt](/glossary/GRUNT.md): a task runner aiming at automating tedious and possibly complex tasks.
+* [Grunt](/glossary/GRUNT.md):outil d’exécution destinée à automatiser les tâches fastidieuses et éventuellement complexes.
 * [Gulp](/glossary/GULP.md): a task runner aiming at automating tedious and possibly complex tasks.
 
 ### H
 
-* [Hapi](/glossary/HAPI.md): a Node JS framework for writing services and more.
+* [Hapi](/glossary/HAPI.md): Un framework Node JS pour écrire des services et plus.
 * [Hoisting](/glossary/HOISTING.md): an action performed by the JavaScript interpreter that moves function and variable declarations to the top of their containing scope.
 
 ### I
@@ -93,7 +93,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### J
 
-* [Jasmine](/glossary/JASMINE.md): a testing framework for BDD.
+* [Jasmine](/glossary/JASMINE.md): un framework de test pour BDD.
 * [jQuery](/glossary/JQUERY.md): a fast, small, and feature-rich client-side library.
 * [JSCS](/glossary/JSCS.md): a JavaScript code linter.
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
