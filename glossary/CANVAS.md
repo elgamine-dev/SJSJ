@@ -1,2 +1,2 @@
 # Canvas
-[Canvas](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas) Il s'agit d'un espace de pixels initialement transparents, armés de JavaScript pour réaliser un bon nombre de fonctions graphiques, partant du simple tracé de courbe pour aller jusqu'aux animations et jeux vidéo.
+[Canvas](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas) se résume en une zone de dessin dont la hauteur et la largeur sont définies dans du code HTML. Du code JavaScript permet d'accéder à l'aire via une série complète de fonctions de dessins, permettant de générer dynamiquement des graphismes :graphiqe, image, animations
