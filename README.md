@@ -51,10 +51,10 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### C
 
-* [Canvas](/glossary/CANVAS.md): an HTML element for graphic applications in 2D or 3D.
+* [Canvas](/glossary/CANVAS.md): est une balise html qui permet via des fonctions de dessin javascript de generer dans ce dernier des formes, images ou textes.
 * [Chai](/glossary/CHAI.md): an assertion library used with a JavaScript testing framework.
 * [Closure](/glossary/CLOSURE.md): *to be completed.*
-* [CoffeeScript](/glossary/COFFEESCRIPT.md): a language that compiles into JavaScript.
+* [CoffeeScript](/glossary/COFFEESCRIPT.md): est un langage de programmation qui se compile en javascript
 * [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
 * [CouchDB](/glossary/COUCHDB.md): a NoSQL database with JavaScript as query language and HTTP as API.
 * [Currying](/glossary/CURRYING.md): *to be completed.*
